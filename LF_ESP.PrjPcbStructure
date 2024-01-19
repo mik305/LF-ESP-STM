@@ -1,1 +1,5 @@
 Record=TopLevelDocument|FileName=ESP-LF.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=ESP-LF.SchDoc|FileName=KTIR-FRONT.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=ESP-LF.SchDoc|FileName=silniki.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=ESP-LF.SchDoc|FileName=STM-LF.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=ESP-LF.SchDoc|FileName=zasilanie.SchDoc|SheetNumber=3
