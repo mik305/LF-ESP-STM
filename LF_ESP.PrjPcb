@@ -168,6 +168,23 @@ GenerateClassCluster=0
 DocumentUniqueId=ENJNAYJL
 
 [Document8]
+DocumentPath=..\lib alt 2024\SamacSys.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MPRJBCLL
+
+[Document9]
 DocumentPath=..\altium libraries\Components2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -184,7 +201,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SSWSHUDR
 
-[Document9]
+[Document10]
 DocumentPath=..\LF-2023\libAltium\Altium Libraries\Components.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -201,7 +218,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EYEOCPKD
 
-[Document10]
+[Document11]
+DocumentPath=..\lib alt 2024\SamacSys.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NGLTGAHM
+
+[Document12]
 DocumentPath=..\altium libraries\Components2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -218,7 +252,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MVZZLSWZ
 
-[Document11]
+[Document13]
 DocumentPath=..\altium libraries\Connectors2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,7 +269,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GHUMGCHX
 
-[Document12]
+[Document14]
 DocumentPath=..\LF-2023\libAltium\Altium Libraries\Components.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,7 +286,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LRIPDDHI
 
-[Document13]
+[Document15]
 DocumentPath=..\LF-2023\libAltium\Altium Libraries\Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,7 +303,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document16]
 DocumentPath=..\LF-2023\libAltium\Altium Libraries\Connectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -286,7 +320,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document17]
 DocumentPath=Ledy.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
