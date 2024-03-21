@@ -1,0 +1,253 @@
+Removed Pin From Net: NetName=GND Pin=CON6-1
+Removed Pin From Net: NetName=Enkoder L2 Pin=CON6-2
+Removed Pin From Net: NetName=Enkoder L1 Pin=CON6-3
+Removed Pin From Net: NetName=3.3V Pin=CON6-4
+Removed Pin From Net: NetName=GND Pin=CON7-1
+Removed Pin From Net: NetName=Enkoder P2 Pin=CON7-2
+Removed Pin From Net: NetName=Enkoder P1 Pin=CON7-3
+Removed Pin From Net: NetName=3.3V Pin=CON7-4
+Change Component Footprint: Designator=CON6 Old Footprint=Goldpin 1.27mm 6Pin New Footprint=BM08B-SRSS-TB
+Change Component Footprint: Designator=CON7 Old Footprint=Goldpin 1.27mm 6Pin New Footprint=BM08B-SRSS-TB
+Change Component Comment : Designator=CON6 Old Comment=6 PIN New Comment=JST
+Change Component Comment : Designator=CON7 Old Comment=6 PIN New Comment=JST
+Add Component: Footprint Not Found CAPPRD500W60D1025H1750
+Add Component: Footprint Not Found CAPPRD500W60D1025H1750
+Add Component: Footprint Not Found CAPPRD500W60D1025H1750
+Add Component: Footprint Not Found CAPPRD500W60D1025H1750
+Add Component: Footprint Not Found CAPPRD500W60D1025H1750
+Add Component: Footprint Not Found LGA-14_1
+Add Component: Footprint Not Found M830520
+Add Component: Footprint Not Found DEA162450BT1295A1
+Add Component: Footprint Not Found KTIR0711S
+Add Component: Footprint Not Found KTIR0711S
+Add Component: Footprint Not Found KTIR0711S
+Add Component: Footprint Not Found KTIR0711S
+Add Component: Footprint Not Found KTIR0711S
+Add Component: Footprint Not Found KTIR0711S
+Add Component: Footprint Not Found KTIR0711S
+Add Component: Footprint Not Found KTIR0711S
+Add Component: Footprint Not Found KTIR0711S
+Add Component: Footprint Not Found KTIR0711S
+Add Component: Footprint Not Found KTIR0711S
+Add Component: Footprint Not Found KTIR0711S
+Add Component: Footprint Not Found KTIR0711S
+Add Component: Footprint Not Found KTIR0711S
+Add Component: Footprint Not Found KTIR0711S
+Add Component: Footprint Not Found KTIR0711S
+Add Component: Footprint Not Found KTIR0711S
+Add Component: Footprint Not Found KTIR0711S
+Add Component: Footprint Not Found KTIR0711S
+Add Component: Footprint Not Found KTIR0711S
+Add Component: Footprint Not Found SON50P200X200X80-9N-D
+Add Component: Footprint Not Found WQFN_JARSBR_TEX
+Add Pin To Net: Unknown Pin: Pin *1-BOOT
+Add Pin To Net: Unknown Pin: Pin *1-EN
+Add Pin To Net: Unknown Pin: Pin *1-FB
+Add Pin To Net: Unknown Pin: Pin *1-GND
+Add Pin To Net: Unknown Pin: Pin *1-SW
+Add Pin To Net: Unknown Pin: Pin *1-VIN
+Add Pin To Net: Unknown Pin: Pin *2-BOOT
+Add Pin To Net: Unknown Pin: Pin *2-EN
+Add Pin To Net: Unknown Pin: Pin *2-FB
+Add Pin To Net: Unknown Pin: Pin *2-GND
+Add Pin To Net: Unknown Pin: Pin *2-SW
+Add Pin To Net: Unknown Pin: Pin *2-VIN
+Add Pin To Net: Unknown Pin: Pin *3-BOOT
+Add Pin To Net: Unknown Pin: Pin *3-EN
+Add Pin To Net: Unknown Pin: Pin *3-FB
+Add Pin To Net: Unknown Pin: Pin *3-GND
+Add Pin To Net: Unknown Pin: Pin *3-SW
+Add Pin To Net: Unknown Pin: Pin *3-VIN
+Add Pin To Net: Unknown Pin: Pin *-DIR
+Add Pin To Net: Unknown Pin: Pin *-EN
+Add Pin To Net: Unknown Pin: Pin *-GND
+Add Pin To Net: Unknown Pin: Pin *-M1A
+Add Pin To Net: Unknown Pin: Pin *-M1B
+Add Pin To Net: Unknown Pin: Pin *-M2A
+Add Pin To Net: Unknown Pin: Pin *-M2B
+Add Pin To Net: Unknown Pin: Pin *-STEP
+Add Pin To Net: Unknown Pin: Pin *-VIO
+Add Pin To Net: Unknown Pin: Pin *-VM
+Add Pin To Net: Unknown Pin: Pin 0,1µF-1
+Add Pin To Net: Unknown Pin: Pin 0,1µF-1
+Add Pin To Net: Unknown Pin: Pin 0,1µF-1
+Add Pin To Net: Unknown Pin: Pin 0,1µF-2
+Add Pin To Net: Unknown Pin: Pin 0,1µF-2
+Add Pin To Net: Unknown Pin: Pin 0,1µF-2
+Add Pin To Net: Unknown Pin: Pin 150uF-1
+Add Pin To Net: Unknown Pin: Pin 150uF-1
+Add Pin To Net: Unknown Pin: Pin 150uF-2
+Add Pin To Net: Unknown Pin: Pin 150uF-2
+Add Pin To Net: Unknown Pin: Pin AC1-2
+Add Pin To Net: Unknown Pin: Pin AC1-3
+Add Pin To Net: Unknown Pin: Pin AC1-5
+Add Pin To Net: Unknown Pin: Pin AC1-6
+Add Pin To Net: Unknown Pin: Pin AC1-7
+Add Pin To Net: Unknown Pin: Pin AC1-8
+Add Pin To Net: Unknown Pin: Pin AC1-12
+Add Pin To Net: Unknown Pin: Pin AC1-13
+Add Pin To Net: Unknown Pin: Pin AC1-14
+Add Pin To Net: Unknown Pin: Pin ANT1-1
+Add Pin To Net: Unknown Pin: Pin ANT1-2
+Added Pin To Net: NetName=3.3V Pin=CON6-3
+Added Pin To Net: NetName=Enkoder L1 Pin=CON6-4
+Added Pin To Net: NetName=Enkoder L2 Pin=CON6-5
+Added Pin To Net: NetName=GND Pin=CON6-6
+Added Pin To Net: NetName=3.3V Pin=CON7-3
+Added Pin To Net: NetName=Enkoder P1 Pin=CON7-4
+Added Pin To Net: NetName=Enkoder P2 Pin=CON7-5
+Added Pin To Net: NetName=GND Pin=CON7-6
+Add Pin To Net: Unknown Pin: Pin FL1-1
+Add Pin To Net: Unknown Pin: Pin FL1-2
+Add Pin To Net: Unknown Pin: Pin FL1-3
+Add Pin To Net: Unknown Pin: Pin FL1-4
+Add Pin To Net: Unknown Pin: Pin IC4-1
+Add Pin To Net: Unknown Pin: Pin IC4-2
+Add Pin To Net: Unknown Pin: Pin IC4-3
+Add Pin To Net: Unknown Pin: Pin IC4-4
+Add Pin To Net: Unknown Pin: Pin IC5-1
+Add Pin To Net: Unknown Pin: Pin IC5-2
+Add Pin To Net: Unknown Pin: Pin IC5-3
+Add Pin To Net: Unknown Pin: Pin IC5-4
+Add Pin To Net: Unknown Pin: Pin IC6-1
+Add Pin To Net: Unknown Pin: Pin IC6-2
+Add Pin To Net: Unknown Pin: Pin IC6-3
+Add Pin To Net: Unknown Pin: Pin IC6-4
+Add Pin To Net: Unknown Pin: Pin IC7-1
+Add Pin To Net: Unknown Pin: Pin IC7-2
+Add Pin To Net: Unknown Pin: Pin IC7-3
+Add Pin To Net: Unknown Pin: Pin IC7-4
+Add Pin To Net: Unknown Pin: Pin IC8-1
+Add Pin To Net: Unknown Pin: Pin IC8-2
+Add Pin To Net: Unknown Pin: Pin IC8-3
+Add Pin To Net: Unknown Pin: Pin IC8-4
+Add Pin To Net: Unknown Pin: Pin IC9-1
+Add Pin To Net: Unknown Pin: Pin IC9-2
+Add Pin To Net: Unknown Pin: Pin IC9-3
+Add Pin To Net: Unknown Pin: Pin IC9-4
+Add Pin To Net: Unknown Pin: Pin IC10-1
+Add Pin To Net: Unknown Pin: Pin IC10-2
+Add Pin To Net: Unknown Pin: Pin IC10-3
+Add Pin To Net: Unknown Pin: Pin IC10-4
+Add Pin To Net: Unknown Pin: Pin IC11-1
+Add Pin To Net: Unknown Pin: Pin IC11-2
+Add Pin To Net: Unknown Pin: Pin IC11-3
+Add Pin To Net: Unknown Pin: Pin IC11-4
+Add Pin To Net: Unknown Pin: Pin IC12-1
+Add Pin To Net: Unknown Pin: Pin IC12-2
+Add Pin To Net: Unknown Pin: Pin IC12-3
+Add Pin To Net: Unknown Pin: Pin IC12-4
+Add Pin To Net: Unknown Pin: Pin IC13-1
+Add Pin To Net: Unknown Pin: Pin IC13-2
+Add Pin To Net: Unknown Pin: Pin IC13-3
+Add Pin To Net: Unknown Pin: Pin IC13-4
+Add Pin To Net: Unknown Pin: Pin IC14-1
+Add Pin To Net: Unknown Pin: Pin IC14-2
+Add Pin To Net: Unknown Pin: Pin IC14-3
+Add Pin To Net: Unknown Pin: Pin IC14-4
+Add Pin To Net: Unknown Pin: Pin IC15-1
+Add Pin To Net: Unknown Pin: Pin IC15-2
+Add Pin To Net: Unknown Pin: Pin IC15-3
+Add Pin To Net: Unknown Pin: Pin IC15-4
+Add Pin To Net: Unknown Pin: Pin IC16-1
+Add Pin To Net: Unknown Pin: Pin IC16-2
+Add Pin To Net: Unknown Pin: Pin IC16-3
+Add Pin To Net: Unknown Pin: Pin IC16-4
+Add Pin To Net: Unknown Pin: Pin IC17-1
+Add Pin To Net: Unknown Pin: Pin IC17-2
+Add Pin To Net: Unknown Pin: Pin IC17-3
+Add Pin To Net: Unknown Pin: Pin IC17-4
+Add Pin To Net: Unknown Pin: Pin IC18-1
+Add Pin To Net: Unknown Pin: Pin IC18-2
+Add Pin To Net: Unknown Pin: Pin IC18-3
+Add Pin To Net: Unknown Pin: Pin IC18-4
+Add Pin To Net: Unknown Pin: Pin IC19-1
+Add Pin To Net: Unknown Pin: Pin IC19-2
+Add Pin To Net: Unknown Pin: Pin IC19-3
+Add Pin To Net: Unknown Pin: Pin IC19-4
+Add Pin To Net: Unknown Pin: Pin IC20-1
+Add Pin To Net: Unknown Pin: Pin IC20-2
+Add Pin To Net: Unknown Pin: Pin IC20-3
+Add Pin To Net: Unknown Pin: Pin IC20-4
+Add Pin To Net: Unknown Pin: Pin IC21-1
+Add Pin To Net: Unknown Pin: Pin IC21-2
+Add Pin To Net: Unknown Pin: Pin IC21-3
+Add Pin To Net: Unknown Pin: Pin IC21-4
+Add Pin To Net: Unknown Pin: Pin IC22-1
+Add Pin To Net: Unknown Pin: Pin IC22-2
+Add Pin To Net: Unknown Pin: Pin IC22-3
+Add Pin To Net: Unknown Pin: Pin IC22-4
+Add Pin To Net: Unknown Pin: Pin IC23-1
+Add Pin To Net: Unknown Pin: Pin IC23-2
+Add Pin To Net: Unknown Pin: Pin IC23-3
+Add Pin To Net: Unknown Pin: Pin IC23-4
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin U2-7
+Add Pin To Net: Unknown Pin: Pin U2-16
+Add Pin To Net: Unknown Pin: Pin U2-17
+Add Pin To Net: Unknown Pin: Pin U2-18
+Add Pin To Net: Unknown Pin: Pin U2-19
+Add Pin To Net: Unknown Pin: Pin U2-20
+Add Pin To Net: Unknown Pin: Pin U2-21
+Add Pin To Net: Unknown Pin: Pin U2-24
+Add Pin To Net: Unknown Pin: Pin U2-25
+Add Pin To Net: Unknown Pin: Pin U2-32
+Add Pin To Net: Unknown Pin: Pin U2-33
+Add Pin To Net: Unknown Pin: Pin U2-35
+Add Pin To Net: Unknown Pin: Pin U2-39
+Add Pin To Net: Unknown Pin: Pin U2-40
+Added Pin To Net: NetName=NetCON6_1 Pin=CON6-1
+Added Pin To Net: NetName=NetCON6_1 Pin=IC1-8
+Added Net: Name=NetCON6_1
+Added Pin To Net: NetName=NetCON6_2 Pin=CON6-2
+Added Pin To Net: NetName=NetCON6_2 Pin=IC1-6
+Added Net: Name=NetCON6_2
+Added Pin To Net: NetName=NetCON7_1 Pin=CON7-1
+Added Pin To Net: NetName=NetCON7_1 Pin=IC3-8
+Added Net: Name=NetCON7_1
+Added Pin To Net: NetName=NetCON7_2 Pin=CON7-2
+Added Pin To Net: NetName=NetCON7_2 Pin=IC3-6
+Added Net: Name=NetCON7_2
+Add Class Member: Failed to add class member : Component *1 RT7251
+Add Class Member: Failed to add class member : Component *2 RT7251
+Add Class Member: Failed to add class member : Component *3 RT7251
+Add Class Member: Failed to add class member : Component * TMC2208 Module
+Add Class Member: Failed to add class member : Component * RT7251
+Add Class Member: Failed to add class member : Component 0,1µF UVZ1H331MPD
+Add Class Member: Failed to add class member : Component 0,1µF UVZ1H331MPD
+Add Class Member: Failed to add class member : Component 0,1µF UVZ1H331MPD
+Added Member To Class: ClassName=STM+WirelessModule Member=Component 0.1uF GCM033C70G104KE02W
+Added Member To Class: ClassName=STM+WirelessModule Member=Component 0.1uF GCM033C70G104KE02W
+Added Member To Class: ClassName=STM+WirelessModule Member=Component 0.1uF GCM033C70G104KE02W
+Added Member To Class: ClassName=STM+WirelessModule Member=Component 0.1uF GCM033C70G104KE02W
+Add Class Member: Failed to add class member : Component 150uF UVZ1H331MPD
+Add Class Member: Failed to add class member : Component 150uF UVZ1H331MPD
+Add Class Member: Failed to add class member : Component AC1 LSM6DSOXTR
+Add Class Member: Failed to add class member : Component ANT1 M830520
+Add Class Member: Failed to add class member : Component FL1 DEA162450BT-1295A1
+Add Class Member: Failed to add class member : Component IC4 KTIR0711S
+Add Class Member: Failed to add class member : Component IC5 KTIR0711S
+Add Class Member: Failed to add class member : Component IC6 KTIR0711S
+Add Class Member: Failed to add class member : Component IC7 KTIR0711S
+Add Class Member: Failed to add class member : Component IC8 KTIR0711S
+Add Class Member: Failed to add class member : Component IC9 KTIR0711S
+Add Class Member: Failed to add class member : Component IC10 KTIR0711S
+Add Class Member: Failed to add class member : Component IC11 KTIR0711S
+Add Class Member: Failed to add class member : Component IC12 KTIR0711S
+Add Class Member: Failed to add class member : Component IC13 KTIR0711S
+Add Class Member: Failed to add class member : Component IC14 KTIR0711S
+Add Class Member: Failed to add class member : Component IC15 KTIR0711S
+Add Class Member: Failed to add class member : Component IC16 KTIR0711S
+Add Class Member: Failed to add class member : Component IC17 KTIR0711S
+Add Class Member: Failed to add class member : Component IC18 KTIR0711S
+Add Class Member: Failed to add class member : Component IC19 KTIR0711S
+Add Class Member: Failed to add class member : Component IC20 KTIR0711S
+Add Class Member: Failed to add class member : Component IC21 KTIR0711S
+Add Class Member: Failed to add class member : Component IC22 KTIR0711S
+Add Class Member: Failed to add class member : Component IC23 KTIR0711S
+Add Class Member: Failed to add class member : Component IC24 RT7251AZQW
+Add Class Member: Failed to add class member : Component U2 CC3301ENJARSBR

@@ -1,0 +1,55 @@
+Added Component: Designator=AC1(LGA-14_1)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LSM6DSOXTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/lsm6dsoxtr/stmicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/resource/en/datasheet/lsm6dsox.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LSM6DSOXTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-LSM6DSOXTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/LSM6DSOXTR?qs=l7cgNqFNU1i9dcjzItLpVQ%3D%3D"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CAPPRD500W60D1025H1750
+Add Component: Footprint Not Found CAPPRD500W60D1025H1750
+Add Component: Footprint Not Found CAPPRD500W60D1025H1750
+Add Component: Footprint Not Found CAPPRD500W60D1025H1750
+Add Component: Footprint Not Found CAPPRD500W60D1025H1750
+Add Component: Footprint Not Found MCSJK7U1600123080B30
+Add Pin To Net: Unknown Pin: Pin *-DIR
+Add Pin To Net: Unknown Pin: Pin *-EN
+Add Pin To Net: Unknown Pin: Pin *-GND
+Add Pin To Net: Unknown Pin: Pin *-M1A
+Add Pin To Net: Unknown Pin: Pin *-M1B
+Add Pin To Net: Unknown Pin: Pin *-M2A
+Add Pin To Net: Unknown Pin: Pin *-M2B
+Add Pin To Net: Unknown Pin: Pin *-STEP
+Add Pin To Net: Unknown Pin: Pin *-VIO
+Add Pin To Net: Unknown Pin: Pin *-VM
+Added Pin To Net: NetName=MSDA Pin=AC1-2
+Added Pin To Net: NetName=MSCL Pin=AC1-3
+Added Pin To Net: NetName=3.3V Pin=AC1-5
+Added Pin To Net: NetName=GND Pin=AC1-6
+Added Pin To Net: NetName=GND Pin=AC1-7
+Added Pin To Net: NetName=3.3V Pin=AC1-8
+Added Pin To Net: NetName=NetAC1_12 Pin=AC1-12
+Added Pin To Net: NetName=NetAC1_13 Pin=AC1-13
+Added Pin To Net: NetName=NetAC1_14 Pin=AC1-14
+Add Pin To Net: Unknown Pin: Pin C50-1
+Add Pin To Net: Unknown Pin: Pin C50-2
+Add Pin To Net: Unknown Pin: Pin C51-1
+Add Pin To Net: Unknown Pin: Pin C51-2
+Add Pin To Net: Unknown Pin: Pin C52-1
+Add Pin To Net: Unknown Pin: Pin C52-2
+Add Pin To Net: Unknown Pin: Pin C53-1
+Add Pin To Net: Unknown Pin: Pin C53-2
+Add Pin To Net: Unknown Pin: Pin C54-1
+Add Pin To Net: Unknown Pin: Pin C54-2
+Add Pin To Net: Unknown Pin: Pin Y1-1
+Add Pin To Net: Unknown Pin: Pin Y1-2
+Add Pin To Net: Unknown Pin: Pin Y1-3
+Add Pin To Net: Unknown Pin: Pin Y1-4
+Add Class Member: Failed to add class member : Component * TMC2208 Module
+Added Member To Class: ClassName=STM-LF Member=Component AC1 LSM6DSOXTR
+Add Class Member: Failed to add class member : Component C50 0.1uF
+Add Class Member: Failed to add class member : Component C51 0.1uF
+Add Class Member: Failed to add class member : Component C52 0.1uF
+Add Class Member: Failed to add class member : Component C53 150uF
+Add Class Member: Failed to add class member : Component C54 150uF
+Add Class Member: Failed to add class member : Component Y1 40MHz

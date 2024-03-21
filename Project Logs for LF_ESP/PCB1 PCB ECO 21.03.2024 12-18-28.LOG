@@ -1,0 +1,77 @@
+Removed Pin From Net: NetName=NetR84_1 Pin=S2-A2
+Removed Pin From Net: NetName=NetR84_1 Pin=S2-B2
+Added Component: Designator=D31(LED 0603 White)
+Added Component: Designator=D32(LED 0603 White)
+Added Component: Designator=D33(LED 0603 White)
+Added Component: Designator=D34(LED 0603 White)
+Added Component: Designator=D35(LED 0603 White)
+Added Component: Designator=Q3(SOT23-3)
+Added Component: Designator=R112(R 0603)
+Added Component: Designator=R113(R 0603)
+Added Component: Designator=R114(R 0603)
+Added Component: Designator=R115(R 0603)
+Added Component: Designator=R116(R 0603)
+Added Component: Designator=R117(R 0603)
+Added Pin To Net: NetName=NetR84_1 Pin=C15-2
+Added Pin To Net: NetName=NetR84_1 Pin=C16-2
+Added Pin To Net: NetName=NetR84_1 Pin=CON9-2
+Added Pin To Net: NetName=GND Pin=D31-2
+Added Pin To Net: NetName=GND Pin=D32-2
+Added Pin To Net: NetName=GND Pin=D33-2
+Added Pin To Net: NetName=GND Pin=D34-2
+Added Pin To Net: NetName=GND Pin=D35-2
+Added Pin To Net: NetName=NetR84_1 Pin=L4-2
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=NetR84_1 Pin=Q3-3
+Added Pin To Net: NetName=NetR84_1 Pin=R14-1
+Added Pin To Net: NetName=NetR84_1 Pin=R117-2
+Added Pin To Net: NetName=GND Pin=S2-A1
+Added Pin To Net: NetName=GND Pin=S2-B1
+Change Net Name : Old Net Name=NetR84_1 New Net Name=5V
+Added Pin To Net: NetName=LED1 Pin=R112-1
+Added Pin To Net: NetName=LED1 Pin=U3-23
+Added Net: Name=LED1
+Added Pin To Net: NetName=LED2 Pin=R113-1
+Added Pin To Net: NetName=LED2 Pin=U3-2
+Added Net: Name=LED2
+Added Pin To Net: NetName=LED3 Pin=R114-1
+Added Pin To Net: NetName=LED3 Pin=U3-3
+Added Net: Name=LED3
+Added Pin To Net: NetName=LED4 Pin=R115-1
+Added Pin To Net: NetName=LED4 Pin=U1-21
+Added Net: Name=LED4
+Added Pin To Net: NetName=LED5 Pin=R116-1
+Added Pin To Net: NetName=LED5 Pin=U1-20
+Added Net: Name=LED5
+Added Pin To Net: NetName=NetD31_1 Pin=D31-1
+Added Pin To Net: NetName=NetD31_1 Pin=R112-2
+Added Net: Name=NetD31_1
+Added Pin To Net: NetName=NetD32_1 Pin=D32-1
+Added Pin To Net: NetName=NetD32_1 Pin=R113-2
+Added Net: Name=NetD32_1
+Added Pin To Net: NetName=NetD33_1 Pin=D33-1
+Added Pin To Net: NetName=NetD33_1 Pin=R114-2
+Added Net: Name=NetD33_1
+Added Pin To Net: NetName=NetD34_1 Pin=D34-1
+Added Pin To Net: NetName=NetD34_1 Pin=R115-2
+Added Net: Name=NetD34_1
+Added Pin To Net: NetName=NetD35_1 Pin=D35-1
+Added Pin To Net: NetName=NetD35_1 Pin=R116-2
+Added Net: Name=NetD35_1
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R117-1
+Added Pin To Net: NetName=NetQ3_1 Pin=S2-A2
+Added Pin To Net: NetName=NetQ3_1 Pin=S2-B2
+Added Net: Name=NetQ3_1
+Added Member To Class: ClassName=STM-LF Member=Component D31 LED WHITE
+Added Member To Class: ClassName=STM-LF Member=Component D32 LED WHITE
+Added Member To Class: ClassName=STM-LF Member=Component D33 LED WHITE
+Added Member To Class: ClassName=STM+WirelessModule Member=Component D34 LED WHITE
+Added Member To Class: ClassName=STM+WirelessModule Member=Component D35 LED WHITE
+Added Member To Class: ClassName=Ledy Member=Component Q3 Model
+Added Member To Class: ClassName=STM-LF Member=Component R112 Value
+Added Member To Class: ClassName=STM-LF Member=Component R113 Value
+Added Member To Class: ClassName=STM-LF Member=Component R114 Value
+Added Member To Class: ClassName=STM+WirelessModule Member=Component R115 Value
+Added Member To Class: ClassName=STM+WirelessModule Member=Component R116 Value
+Added Member To Class: ClassName=Ledy Member=Component R117 10k

@@ -1,0 +1,29 @@
+Change Component Footprint: Designator=L3 Old Footprint=L 1206 New Footprint=HPI0630
+Change Component Footprint: Designator=L4 Old Footprint=L 1206 New Footprint=HPI0630
+Change Component Footprint: Designator=L5 Old Footprint=L 1206 New Footprint=HPI0630
+Change Component Comment : Designator=C11 Old Comment=10nF New Comment=22uF
+Change Component Comment : Designator=C12 Old Comment=10nF New Comment=22uF
+Change Component Comment : Designator=C15 Old Comment=10nF New Comment=22uF
+Change Component Comment : Designator=C16 Old Comment=10nF New Comment=22uF
+Change Component Comment : Designator=C19 Old Comment=10nF New Comment=22uF
+Change Component Comment : Designator=C20 Old Comment=10nF New Comment=22uF
+Change Component Comment : Designator=C9 Old Comment=10nF New Comment=100nF
+Change Component Comment : Designator=C13 Old Comment=10nF New Comment=100nF
+Change Component Comment : Designator=C17 Old Comment=10nF New Comment=100nF
+Add Component: Footprint Not Found MCSJK7U1600123080B30
+Add Pin To Net: Unknown Pin: Pin *-DIR
+Add Pin To Net: Unknown Pin: Pin *-EN
+Add Pin To Net: Unknown Pin: Pin *-GND
+Add Pin To Net: Unknown Pin: Pin *-M1A
+Add Pin To Net: Unknown Pin: Pin *-M1B
+Add Pin To Net: Unknown Pin: Pin *-M2A
+Add Pin To Net: Unknown Pin: Pin *-M2B
+Add Pin To Net: Unknown Pin: Pin *-STEP
+Add Pin To Net: Unknown Pin: Pin *-VIO
+Add Pin To Net: Unknown Pin: Pin *-VM
+Add Pin To Net: Unknown Pin: Pin Y1-1
+Add Pin To Net: Unknown Pin: Pin Y1-2
+Add Pin To Net: Unknown Pin: Pin Y1-3
+Add Pin To Net: Unknown Pin: Pin Y1-4
+Add Class Member: Failed to add class member : Component * TMC2208 Module
+Add Class Member: Failed to add class member : Component Y1 40MHz

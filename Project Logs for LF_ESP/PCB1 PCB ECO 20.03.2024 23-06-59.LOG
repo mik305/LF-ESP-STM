@@ -1,0 +1,77 @@
+Added Component: Designator=C50(CAPPRD250W50D655H1250)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.nichicon.co.jp/english/products/pdfs/e-uvz.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "17.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nichicon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "UVZ1H331MPD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "647-UVZ1H331MPD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nichicon/UVZ1H331MPD?qs=c%252BikF0N8D5kXe1Z5OktPOg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C51(CAPPRD250W50D655H1250)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.nichicon.co.jp/english/products/pdfs/e-uvz.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "17.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nichicon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "UVZ1H331MPD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "647-UVZ1H331MPD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nichicon/UVZ1H331MPD?qs=c%252BikF0N8D5kXe1Z5OktPOg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C52(CAPPRD250W50D655H1250)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.nichicon.co.jp/english/products/pdfs/e-uvz.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "17.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nichicon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "UVZ1H331MPD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "647-UVZ1H331MPD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nichicon/UVZ1H331MPD?qs=c%252BikF0N8D5kXe1Z5OktPOg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C53(CAPPRD250W50D655H1250)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.nichicon.co.jp/english/products/pdfs/e-uvz.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "17.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nichicon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "UVZ1H331MPD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "647-UVZ1H331MPD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nichicon/UVZ1H331MPD?qs=c%252BikF0N8D5kXe1Z5OktPOg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C54(CAPPRD250W50D655H1250)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.nichicon.co.jp/english/products/pdfs/e-uvz.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "17.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nichicon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "UVZ1H331MPD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "647-UVZ1H331MPD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nichicon/UVZ1H331MPD?qs=c%252BikF0N8D5kXe1Z5OktPOg%3D%3D"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found MCSJK7U1600123080B30
+Add Pin To Net: Unknown Pin: Pin *-DIR
+Add Pin To Net: Unknown Pin: Pin *-EN
+Add Pin To Net: Unknown Pin: Pin *-GND
+Add Pin To Net: Unknown Pin: Pin *-M1A
+Add Pin To Net: Unknown Pin: Pin *-M1B
+Add Pin To Net: Unknown Pin: Pin *-M2A
+Add Pin To Net: Unknown Pin: Pin *-M2B
+Add Pin To Net: Unknown Pin: Pin *-STEP
+Add Pin To Net: Unknown Pin: Pin *-VIO
+Add Pin To Net: Unknown Pin: Pin *-VM
+Added Pin To Net: NetName=11.1V Pin=C50-1
+Added Pin To Net: NetName=11.1V Pin=C50-2
+Added Pin To Net: NetName=11.1V Pin=C51-1
+Added Pin To Net: NetName=11.1V Pin=C51-2
+Added Pin To Net: NetName=11.1V Pin=C52-1
+Added Pin To Net: NetName=11.1V Pin=C52-2
+Added Pin To Net: NetName=11.1V Pin=C53-1
+Added Pin To Net: NetName=GND Pin=C53-2
+Added Pin To Net: NetName=11.1V Pin=C54-1
+Added Pin To Net: NetName=GND Pin=C54-2
+Add Pin To Net: Unknown Pin: Pin Y1-1
+Add Pin To Net: Unknown Pin: Pin Y1-2
+Add Pin To Net: Unknown Pin: Pin Y1-3
+Add Pin To Net: Unknown Pin: Pin Y1-4
+Add Class Member: Failed to add class member : Component * TMC2208 Module
+Added Member To Class: ClassName=silniki Member=Component C50 0.1uF
+Added Member To Class: ClassName=silniki Member=Component C51 0.1uF
+Added Member To Class: ClassName=silniki Member=Component C52 0.1uF
+Added Member To Class: ClassName=zasilanie Member=Component C53 150uF
+Added Member To Class: ClassName=zasilanie Member=Component C54 150uF
+Add Class Member: Failed to add class member : Component Y1 40MHz

@@ -1,0 +1,108 @@
+Add Component: Footprint Not Found LGA-14_1
+Add Component: Footprint Not Found CAPPRD500W60D1025H1750
+Add Component: Footprint Not Found CAPPRD500W60D1025H1750
+Add Component: Footprint Not Found CAPPRD500W60D1025H1750
+Add Component: Footprint Not Found CAPPRD500W60D1025H1750
+Add Component: Footprint Not Found CAPPRD500W60D1025H1750
+Added Component: Designator=IC24(SON50P200X200X80-9N-D)
+Added Component: Designator=IC25(SON50P200X200X80-9N-D)
+Added Component: Designator=IC26(SON50P200X200X80-9N-D)
+Add Component: Footprint Not Found MCSJK7U1600123080B30
+Add Pin To Net: Unknown Pin: Pin *-DIR
+Add Pin To Net: Unknown Pin: Pin *-EN
+Add Pin To Net: Unknown Pin: Pin *-GND
+Add Pin To Net: Unknown Pin: Pin *-M1A
+Add Pin To Net: Unknown Pin: Pin *-M1B
+Add Pin To Net: Unknown Pin: Pin *-M2A
+Add Pin To Net: Unknown Pin: Pin *-M2B
+Add Pin To Net: Unknown Pin: Pin *-STEP
+Add Pin To Net: Unknown Pin: Pin *-VIO
+Add Pin To Net: Unknown Pin: Pin *-VM
+Add Pin To Net: Unknown Pin: Pin AC1-2
+Add Pin To Net: Unknown Pin: Pin AC1-3
+Add Pin To Net: Unknown Pin: Pin AC1-5
+Add Pin To Net: Unknown Pin: Pin AC1-6
+Add Pin To Net: Unknown Pin: Pin AC1-7
+Add Pin To Net: Unknown Pin: Pin AC1-8
+Add Pin To Net: Unknown Pin: Pin AC1-12
+Add Pin To Net: Unknown Pin: Pin AC1-13
+Add Pin To Net: Unknown Pin: Pin AC1-14
+Add Pin To Net: Unknown Pin: Pin C50-1
+Add Pin To Net: Unknown Pin: Pin C50-2
+Add Pin To Net: Unknown Pin: Pin C51-1
+Add Pin To Net: Unknown Pin: Pin C51-2
+Add Pin To Net: Unknown Pin: Pin C52-1
+Add Pin To Net: Unknown Pin: Pin C52-2
+Add Pin To Net: Unknown Pin: Pin C53-1
+Add Pin To Net: Unknown Pin: Pin C53-2
+Add Pin To Net: Unknown Pin: Pin C54-1
+Add Pin To Net: Unknown Pin: Pin C54-2
+Added Pin To Net: NetName=11.1V Pin=IC24-2
+Added Pin To Net: NetName=GND Pin=IC24-7
+Added Pin To Net: NetName=GND Pin=IC24-8
+Added Pin To Net: NetName=GND Pin=IC24-9
+Added Pin To Net: NetName=11.1V Pin=IC25-2
+Added Pin To Net: NetName=GND Pin=IC25-7
+Added Pin To Net: NetName=GND Pin=IC25-8
+Added Pin To Net: NetName=GND Pin=IC25-9
+Added Pin To Net: NetName=11.1V Pin=IC26-2
+Added Pin To Net: NetName=GND Pin=IC26-7
+Added Pin To Net: NetName=GND Pin=IC26-8
+Added Pin To Net: NetName=GND Pin=IC26-9
+Add Pin To Net: Unknown Pin: Pin Y1-1
+Add Pin To Net: Unknown Pin: Pin Y1-2
+Add Pin To Net: Unknown Pin: Pin Y1-3
+Add Pin To Net: Unknown Pin: Pin Y1-4
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=IC24-3
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=IC24-1
+Added Pin To Net: NetName=NetC9_2 Pin=L3-1
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Pin To Net: NetName=NetC13_1 Pin=IC25-3
+Added Net: Name=NetC13_1
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=IC25-1
+Added Pin To Net: NetName=NetC13_2 Pin=L4-1
+Added Net: Name=NetC13_2
+Added Pin To Net: NetName=NetC17_1 Pin=C17-1
+Added Pin To Net: NetName=NetC17_1 Pin=IC26-3
+Added Net: Name=NetC17_1
+Added Pin To Net: NetName=NetC17_2 Pin=C17-2
+Added Pin To Net: NetName=NetC17_2 Pin=IC26-1
+Added Pin To Net: NetName=NetC17_2 Pin=L5-1
+Added Net: Name=NetC17_2
+Added Pin To Net: NetName=NetIC24_4 Pin=IC24-4
+Added Pin To Net: NetName=NetIC24_4 Pin=R8-1
+Added Net: Name=NetIC24_4
+Added Pin To Net: NetName=NetIC24_5 Pin=IC24-5
+Added Pin To Net: NetName=NetIC24_5 Pin=R9-2
+Added Pin To Net: NetName=NetIC24_5 Pin=R10-1
+Added Net: Name=NetIC24_5
+Added Pin To Net: NetName=NetIC25_4 Pin=IC25-4
+Added Pin To Net: NetName=NetIC25_4 Pin=R12-1
+Added Net: Name=NetIC25_4
+Added Pin To Net: NetName=NetIC25_5 Pin=IC25-5
+Added Pin To Net: NetName=NetIC25_5 Pin=R14-2
+Added Pin To Net: NetName=NetIC25_5 Pin=R15-1
+Added Net: Name=NetIC25_5
+Added Pin To Net: NetName=NetIC26_4 Pin=IC26-4
+Added Pin To Net: NetName=NetIC26_4 Pin=R16-1
+Added Net: Name=NetIC26_4
+Added Pin To Net: NetName=NetIC26_5 Pin=IC26-5
+Added Pin To Net: NetName=NetIC26_5 Pin=R17-2
+Added Pin To Net: NetName=NetIC26_5 Pin=R18-1
+Added Net: Name=NetIC26_5
+Add Class Member: Failed to add class member : Component * TMC2208 Module
+Add Class Member: Failed to add class member : Component AC1 LSM6DSOXTR
+Add Class Member: Failed to add class member : Component C50 0.1uF
+Add Class Member: Failed to add class member : Component C51 0.1uF
+Add Class Member: Failed to add class member : Component C52 0.1uF
+Add Class Member: Failed to add class member : Component C53 150uF
+Add Class Member: Failed to add class member : Component C54 150uF
+Added Member To Class: ClassName=zasilanie Member=Component IC24 RT7251
+Added Member To Class: ClassName=zasilanie Member=Component IC25 RT7251
+Added Member To Class: ClassName=zasilanie Member=Component IC26 RT7251
+Add Class Member: Failed to add class member : Component Y1 40MHz

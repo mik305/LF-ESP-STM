@@ -1,0 +1,149 @@
+Add Component: Footprint Not Found LGA-14_1
+Add Component: Footprint Not Found CAPPRD500W60D1025H1750
+Add Component: Footprint Not Found CAPPRD500W60D1025H1750
+Add Component: Footprint Not Found CAPPRD500W60D1025H1750
+Add Component: Footprint Not Found CAPPRD500W60D1025H1750
+Add Component: Footprint Not Found CAPPRD500W60D1025H1750
+Add Component: Footprint Not Found SON50P200X200X80-9N-D
+Add Component: Footprint Not Found WQFN_JARSBR_TEX
+Add Component: Footprint Not Found MCSJK7U1600123080B30
+Add Pin To Net: Unknown Pin: Pin *1-BOOT
+Add Pin To Net: Unknown Pin: Pin *1-EN
+Add Pin To Net: Unknown Pin: Pin *1-FB
+Add Pin To Net: Unknown Pin: Pin *1-GND
+Add Pin To Net: Unknown Pin: Pin *1-SW
+Add Pin To Net: Unknown Pin: Pin *1-VIN
+Add Pin To Net: Unknown Pin: Pin *2-BOOT
+Add Pin To Net: Unknown Pin: Pin *2-EN
+Add Pin To Net: Unknown Pin: Pin *2-FB
+Add Pin To Net: Unknown Pin: Pin *2-GND
+Add Pin To Net: Unknown Pin: Pin *2-SW
+Add Pin To Net: Unknown Pin: Pin *2-VIN
+Add Pin To Net: Unknown Pin: Pin *3-BOOT
+Add Pin To Net: Unknown Pin: Pin *3-EN
+Add Pin To Net: Unknown Pin: Pin *3-FB
+Add Pin To Net: Unknown Pin: Pin *3-GND
+Add Pin To Net: Unknown Pin: Pin *3-SW
+Add Pin To Net: Unknown Pin: Pin *3-VIN
+Add Pin To Net: Unknown Pin: Pin *-DIR
+Add Pin To Net: Unknown Pin: Pin *-EN
+Add Pin To Net: Unknown Pin: Pin *-GND
+Add Pin To Net: Unknown Pin: Pin *-M1A
+Add Pin To Net: Unknown Pin: Pin *-M1B
+Add Pin To Net: Unknown Pin: Pin *-M2A
+Add Pin To Net: Unknown Pin: Pin *-M2B
+Add Pin To Net: Unknown Pin: Pin *-STEP
+Add Pin To Net: Unknown Pin: Pin *-VIO
+Add Pin To Net: Unknown Pin: Pin *-VM
+Add Pin To Net: Unknown Pin: Pin AC1-2
+Add Pin To Net: Unknown Pin: Pin AC1-3
+Add Pin To Net: Unknown Pin: Pin AC1-5
+Add Pin To Net: Unknown Pin: Pin AC1-6
+Add Pin To Net: Unknown Pin: Pin AC1-7
+Add Pin To Net: Unknown Pin: Pin AC1-8
+Add Pin To Net: Unknown Pin: Pin AC1-12
+Add Pin To Net: Unknown Pin: Pin AC1-13
+Add Pin To Net: Unknown Pin: Pin AC1-14
+Add Pin To Net: Unknown Pin: Pin C50-1
+Add Pin To Net: Unknown Pin: Pin C50-2
+Add Pin To Net: Unknown Pin: Pin C51-1
+Add Pin To Net: Unknown Pin: Pin C51-2
+Add Pin To Net: Unknown Pin: Pin C52-1
+Add Pin To Net: Unknown Pin: Pin C52-2
+Add Pin To Net: Unknown Pin: Pin C53-1
+Add Pin To Net: Unknown Pin: Pin C53-2
+Add Pin To Net: Unknown Pin: Pin C54-1
+Add Pin To Net: Unknown Pin: Pin C54-2
+Added Pin To Net: NetName=SWDIO Pin=CON3-2
+Added Pin To Net: NetName=SWCLK Pin=CON3-4
+Added Pin To Net: NetName=ADC1 Pin=R82-1
+Added Pin To Net: NetName=ADC11 Pin=R83-1
+Added Pin To Net: NetName=ADC2 Pin=R85-1
+Added Pin To Net: NetName=ADC12 Pin=R86-1
+Added Pin To Net: NetName=ADC3 Pin=R88-1
+Added Pin To Net: NetName=ADC13 Pin=R89-1
+Added Pin To Net: NetName=ADC4 Pin=R91-1
+Added Pin To Net: NetName=ADC14 Pin=R92-1
+Added Pin To Net: NetName=ADC5 Pin=R94-1
+Added Pin To Net: NetName=ADC15 Pin=R95-1
+Added Pin To Net: NetName=ADC6 Pin=R96-1
+Added Pin To Net: NetName=ADC16 Pin=R97-1
+Added Pin To Net: NetName=ADC7 Pin=R99-1
+Added Pin To Net: NetName=ADC17 Pin=R100-1
+Added Pin To Net: NetName=ADC8 Pin=R102-1
+Added Pin To Net: NetName=ADC18 Pin=R103-1
+Added Pin To Net: NetName=ADC9 Pin=R105-1
+Added Pin To Net: NetName=ADC19 Pin=R106-1
+Added Pin To Net: NetName=ADC10 Pin=R108-1
+Added Pin To Net: NetName=ADC20 Pin=R109-1
+Added Pin To Net: NetName=Enkoder P1 Pin=U1-2
+Added Pin To Net: NetName=Enkoder P2 Pin=U1-3
+Added Pin To Net: NetName=ADC12 Pin=U1-7
+Added Pin To Net: NetName=ADC13 Pin=U1-8
+Added Pin To Net: NetName=ADC14 Pin=U1-9
+Added Pin To Net: NetName=ADC15 Pin=U1-10
+Added Pin To Net: NetName=ADC16 Pin=U1-11
+Added Pin To Net: NetName=ADC17 Pin=U1-12
+Added Pin To Net: NetName=ADC18 Pin=U1-13
+Added Pin To Net: NetName=ADC19 Pin=U1-14
+Added Pin To Net: NetName=ADC20 Pin=U1-15
+Added Pin To Net: NetName=Enkoder L1 Pin=U1-22
+Added Pin To Net: NetName=Enkoder L2 Pin=U1-23
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin U2-7
+Add Pin To Net: Unknown Pin: Pin U2-16
+Add Pin To Net: Unknown Pin: Pin U2-17
+Add Pin To Net: Unknown Pin: Pin U2-18
+Add Pin To Net: Unknown Pin: Pin U2-19
+Add Pin To Net: Unknown Pin: Pin U2-20
+Add Pin To Net: Unknown Pin: Pin U2-21
+Add Pin To Net: Unknown Pin: Pin U2-24
+Add Pin To Net: Unknown Pin: Pin U2-25
+Add Pin To Net: Unknown Pin: Pin U2-32
+Add Pin To Net: Unknown Pin: Pin U2-33
+Add Pin To Net: Unknown Pin: Pin U2-35
+Add Pin To Net: Unknown Pin: Pin U2-39
+Add Pin To Net: Unknown Pin: Pin U2-40
+Added Pin To Net: NetName=ADC2 Pin=U3-8
+Added Pin To Net: NetName=ADC3 Pin=U3-9
+Added Pin To Net: NetName=ADC4 Pin=U3-10
+Added Pin To Net: NetName=ADC5 Pin=U3-11
+Added Pin To Net: NetName=ADC6 Pin=U3-12
+Added Pin To Net: NetName=ADC7 Pin=U3-13
+Added Pin To Net: NetName=ADC8 Pin=U3-14
+Added Pin To Net: NetName=ADC9 Pin=U3-15
+Added Pin To Net: NetName=ADC10 Pin=U3-16
+Added Pin To Net: NetName=ADC11 Pin=U3-17
+Added Pin To Net: NetName=PA8 Pin=U3-18
+Added Pin To Net: NetName=PA9 Pin=U3-19
+Added Pin To Net: NetName=PA10 Pin=U3-21
+Added Pin To Net: NetName=PA11 Pin=U3-22
+Added Pin To Net: NetName=SWDIO Pin=U3-24
+Added Pin To Net: NetName=SWCLK Pin=U3-25
+Added Pin To Net: NetName=PA15 Pin=U3-26
+Added Pin To Net: NetName=PB4 Pin=U3-28
+Added Pin To Net: NetName=PB5 Pin=U3-29
+Added Pin To Net: NetName=UART RX Pin=U3-30
+Added Pin To Net: NetName=UART TX Pin=U3-31
+Add Pin To Net: Unknown Pin: Pin Y1-1
+Add Pin To Net: Unknown Pin: Pin Y1-2
+Add Pin To Net: Unknown Pin: Pin Y1-3
+Add Pin To Net: Unknown Pin: Pin Y1-4
+Add Class Member: Failed to add class member : Component *1 RT7251
+Add Class Member: Failed to add class member : Component *2 RT7251
+Add Class Member: Failed to add class member : Component *3 RT7251
+Add Class Member: Failed to add class member : Component * TMC2208 Module
+Add Class Member: Failed to add class member : Component AC1 LSM6DSOXTR
+Add Class Member: Failed to add class member : Component C50 0.1uF
+Add Class Member: Failed to add class member : Component C51 0.1uF
+Add Class Member: Failed to add class member : Component C52 0.1uF
+Add Class Member: Failed to add class member : Component C53 150uF
+Add Class Member: Failed to add class member : Component C54 150uF
+Add Class Member: Failed to add class member : Component IC24 RT7251AZQW
+Added Member To Class: ClassName=KTIR-FRONT Member=Component R55 8k
+Add Class Member: Failed to add class member : Component U2 CC3301ENJARSBR
+Add Class Member: Failed to add class member : Component Y1 40MHz
