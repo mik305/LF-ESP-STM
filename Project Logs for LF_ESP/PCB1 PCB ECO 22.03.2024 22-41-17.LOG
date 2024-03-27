@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=5V Pin=R117-2
+Removed Pin From Net: NetName=GND Pin=S2-A1
+Removed Pin From Net: NetName=GND Pin=S2-B1
+Removed Member From Class: ClassName=Ledy Member=R117
+Removed Member From Class: ClassName=Ledy Member=S2
+Change Component Footprint: Designator=Q3 Old Footprint=SOT23-3 New Footprint=SOT323
+Added Pin To Net: NetName=LED CONTROL Pin=Q3-1
+Added Pin To Net: NetName=LED CONTROL Pin=U1-19
+Added Net: Name=LED CONTROL

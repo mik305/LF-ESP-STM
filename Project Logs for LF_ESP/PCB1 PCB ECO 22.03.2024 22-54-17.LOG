@@ -1,0 +1,7 @@
+Added Component: Designator=CON10(Goldpin 1.27mm 4PIN)
+Added Pin To Net: NetName=GND Pin=CON10-3
+Added Pin To Net: NetName=3.3V Pin=CON10-4
+Added Pin To Net: NetName=START Pin=CON10-2
+Added Pin To Net: NetName=START Pin=U1-17
+Added Net: Name=START
+Added Member To Class: ClassName=STM+WirelessModule Member=Component CON10 CON?

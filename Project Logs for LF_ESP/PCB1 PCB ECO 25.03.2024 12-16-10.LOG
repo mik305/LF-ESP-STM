@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=10pF-2
+Removed Member From Class: ClassName=STM+WirelessModule Member=10pF
+Added Component: Designator=C55(C 0603)
+Added Pin To Net: NetName=GND Pin=C55-2
+Added Pin To Net: NetName=NetC55_1 Pin=C55-1
+Added Pin To Net: NetName=NetC55_1 Pin=FL1-1
+Added Pin To Net: NetName=NetC55_1 Pin=L2-2
+Added Net: Name=NetC55_1
+Added Member To Class: ClassName=STM+WirelessModule Member=Component C55 10pF
