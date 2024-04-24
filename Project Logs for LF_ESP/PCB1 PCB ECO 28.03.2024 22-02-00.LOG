@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=3.3V Pin=Q3-3
+Removed Pin From Net: NetName=3.3V Pin=R84-1
+Removed Pin From Net: NetName=3.3V Pin=R87-1
+Removed Pin From Net: NetName=3.3V Pin=R90-1
+Removed Pin From Net: NetName=3.3V Pin=R93-1
+Removed Pin From Net: NetName=3.3V Pin=R98-1
+Removed Pin From Net: NetName=3.3V Pin=R101-1
+Removed Pin From Net: NetName=3.3V Pin=R104-1
+Removed Pin From Net: NetName=3.3V Pin=R107-1
+Removed Pin From Net: NetName=3.3V Pin=R110-1
+Removed Pin From Net: NetName=3.3V Pin=R111-1
+Added Pin To Net: NetName=5V Pin=Q3-3
+Added Pin To Net: NetName=5V Pin=R84-1
+Added Pin To Net: NetName=5V Pin=R87-1
+Added Pin To Net: NetName=5V Pin=R90-1
+Added Pin To Net: NetName=5V Pin=R93-1
+Added Pin To Net: NetName=5V Pin=R98-1
+Added Pin To Net: NetName=5V Pin=R101-1
+Added Pin To Net: NetName=5V Pin=R104-1
+Added Pin To Net: NetName=5V Pin=R107-1
+Added Pin To Net: NetName=5V Pin=R110-1
+Added Pin To Net: NetName=5V Pin=R111-1
+Added Member To Class: ClassName=KTIR-FRONT Member=Component IC5 KTIR0711S
