@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=C? NewDesignator=C15
+Change Component Designator: OldDesignator=C? NewDesignator=C16
+Change Component Designator: OldDesignator=IC? NewDesignator=IC25
+Change Component Designator: OldDesignator=IC? NewDesignator=IC26
+Added Member To Class: ClassName=zasilanie Member=Component C14 1uF
+Added Member To Class: ClassName=zasilanie Member=Component C15 1uF
+Added Member To Class: ClassName=zasilanie Member=Component C16 1uF
+Added Member To Class: ClassName=zasilanie Member=Component IC26 AZ1117CR-3.3TRG1
